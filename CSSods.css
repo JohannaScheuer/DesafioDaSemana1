@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    width: 1000px;
+    padding: 5%, 15%;
+    background-image: url("Wallpaper.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+p{
+    margin: 10px;
+}
+
+img{
+    width: 40%;
+    margin: 1px;
+}
+
+.TituloPrincipal{
+    margin: 20px;
+	font-family: Edwardian Script ITC;
+    text-align: center;
+    font-size: 70px;
+    color: turquoise;
+}
+p{
+    font-size: 30px;
+    font-family: French Script MT;
+    color: white;
+    text-align: center;
+}
+
+.SubtitulosD{
+    font-size: 20px;
+    font-family: Arial;
+    text-align: right;
+    border: 2px dotted white;
+    color:lightseagreen;
+}
+
+.TextoExplicativoD{
+    font-size: 20px;
+    font-family: Arial;
+    text-align: right;
+    color:white;
+}
+
+.SubtitulosE{
+    font-size: 20px;
+    font-family: Arial;
+    text-align: left;
+    border: 2px dotted white;
+    color: lightseagreen;
+}
+
+.TextoExplicativoE{
+    font-size: 20px;
+    font-family: Arial;
+    text-align: left;
+    color:white;
+}
+
+.SubtitulosC{
+    font-size: 20px;
+    font-family: Arial;
+    text-align: center;
+    border: 2px dotted white;
+    color: lightseagreen;
+}
+#logo{
+    width: 30%;
+    padding: 30px;
+}
